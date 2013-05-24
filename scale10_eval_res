@@ -1,0 +1,43 @@
+Weighting scheme (1:Unw, 2:Lin(default), 3:Exp)
+Heuristic type: 1:Small, 2:Greedy, 3:CCF 4:BBig
+Given graph: scale-10-graph.txt
+Heuristic 1, Weight 2
+Number of cut edges: 5555
+Ideal no. of vertices per partition: 10
+Overall imbalance: 24
+
+Heuristic 2, Weight 2
+Number of cut edges: 5373
+Ideal no. of vertices per partition: 10
+Overall imbalance: 24
+
+Heuristic 3, Weight 2
+Number of cut edges: 5355
+Ideal no. of vertices per partition: 10
+Overall imbalance: 24
+
+Heuristic 4, Weight 2
+Number of cut edges: 5555
+Ideal no. of vertices per partition: 10
+Overall imbalance: 24
+
+Heuristic 1, Weight 3
+Number of cut edges: 5555
+Ideal no. of vertices per partition: 10
+Overall imbalance: 24
+
+Heuristic 2, Weight 3
+Number of cut edges: 5098
+Ideal no. of vertices per partition: 10
+Overall imbalance: 24
+
+Heuristic 3, Weight 3
+Number of cut edges: 5355
+Ideal no. of vertices per partition: 10
+Overall imbalance: 24
+
+Heuristic 4, Weight 3
+Number of cut edges: 5555
+Ideal no. of vertices per partition: 10
+Overall imbalance: 24
+

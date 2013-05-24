@@ -1,0 +1,9 @@
+Debug/dep/*
+Debug/graphstream/*
+Graphs/*
+dep/*.gch
+
+GraphConverterUtil
+graph_partition_processer
+PartitionEvaluator
+testHeuristic

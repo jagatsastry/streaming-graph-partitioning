@@ -1,0 +1,24 @@
+Calling heuristic GREEDY with weight scheme 2 and stream order 2
+All-pairs shortest path simulated time 5062657
+Calling heuristic GREEDY with weight scheme 2 and stream order 3
+All-pairs shortest path simulated time 162813217
+Calling heuristic GREEDY with weight scheme 3 and stream order 2
+All-pairs shortest path simulated time 6668536
+Calling heuristic GREEDY with weight scheme 3 and stream order 3
+All-pairs shortest path simulated time 162755599
+Calling heuristic CCF with weight scheme 2 and stream order 2
+All-pairs shortest path simulated time 41825317
+Calling heuristic CCF with weight scheme 2 and stream order 3
+All-pairs shortest path simulated time 162765697
+Calling heuristic CCF with weight scheme 3 and stream order 2
+All-pairs shortest path simulated time 41825317
+Calling heuristic CCF with weight scheme 3 and stream order 3
+All-pairs shortest path simulated time 162692437
+Calling heuristic BBIG with weight scheme 2 and stream order 2
+All-pairs shortest path simulated time 163956073
+Calling heuristic BBIG with weight scheme 2 and stream order 3
+All-pairs shortest path simulated time 162868360
+Calling heuristic SMALL with weight scheme 2 and stream order 2
+All-pairs shortest path simulated time 163956073
+Calling heuristic SMALL with weight scheme 2 and stream order 3
+All-pairs shortest path simulated time 162868360
